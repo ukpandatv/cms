@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5a49db0.chunk.css",
+    "main.js": "/static/js/main.c9301164.chunk.js",
+    "main.js.map": "/static/js/main.c9301164.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d202421e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d202421e.js.map",
+    "static/js/2.a9d1b10e.chunk.js": "/static/js/2.a9d1b10e.chunk.js",
+    "static/js/2.a9d1b10e.chunk.js.map": "/static/js/2.a9d1b10e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.11e3ba301a43c6b877b5266305ab57c9.js": "/precache-manifest.11e3ba301a43c6b877b5266305ab57c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e5a49db0.chunk.css.map": "/static/css/main.e5a49db0.chunk.css.map",
+    "static/js/2.a9d1b10e.chunk.js.LICENSE": "/static/js/2.a9d1b10e.chunk.js.LICENSE",
+    "static/media/style.css": "/static/media/video-bg.41fee76c.jpg",
+    "static/media/angle-right-solid.c61fb1de.svg": "/static/media/angle-right-solid.c61fb1de.svg",
+    "static/media/pandaTV.mp4": "/static/media/pandaTV.83bb9b89.mp4",
+    "static/media/paul-gilmore-iMtJT_NEWp8-unsplash.jpg": "/static/media/paul-gilmore-iMtJT_NEWp8-unsplash.81707f35.jpg",
+    "static/media/ukpandatvlogo.png": "/static/media/ukpandatvlogo.c942f398.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d202421e.js",
+    "static/js/2.a9d1b10e.chunk.js",
+    "static/css/main.e5a49db0.chunk.css",
+    "static/js/main.c9301164.chunk.js"
+  ]
+}
